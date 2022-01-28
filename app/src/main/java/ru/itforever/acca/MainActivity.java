@@ -22,6 +22,7 @@ import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
 
 import ru.itforever.acca.ModelClass.ImageSenderInfo;
+import ru.itforever.acca.NetworkRelatedClass.NetworkCall;
 
 public class MainActivity extends AppCompatActivity {
 
