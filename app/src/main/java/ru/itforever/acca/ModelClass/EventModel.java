@@ -1,4 +1,4 @@
-package com.hellohasan.android_file_upload_tutorial.ModelClass;
+package ru.itforever.acca.ModelClass;
 
 public class EventModel {
     private String eventTag;

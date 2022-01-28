@@ -1,6 +1,6 @@
-package com.hellohasan.android_file_upload_tutorial.NetworkRelatedClass;
+package ru.itforever.acca.NetworkRelatedClass;
 
-import com.hellohasan.android_file_upload_tutorial.ModelClass.ResponseModel;
+import ru.itforever.acca.ModelClass.ResponseModel;
 
 import okhttp3.MultipartBody;
 import okhttp3.RequestBody;

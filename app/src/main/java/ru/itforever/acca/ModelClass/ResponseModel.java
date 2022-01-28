@@ -1,5 +1,5 @@
 
-package com.hellohasan.android_file_upload_tutorial.ModelClass;
+package ru.itforever.acca.ModelClass;
 
 import android.os.Parcel;
 import android.os.Parcelable;
@@ -13,7 +13,7 @@ public class ResponseModel implements Parcelable
     private boolean success;
     @SerializedName("message")
     private String message;
-    public final static Parcelable.Creator<ResponseModel> CREATOR = new Creator<ResponseModel>() {
+    public final static Creator<ResponseModel> CREATOR = new Creator<ResponseModel>() {
 
 
         @SuppressWarnings({

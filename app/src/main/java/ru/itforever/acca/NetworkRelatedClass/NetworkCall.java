@@ -1,11 +1,11 @@
-package com.hellohasan.android_file_upload_tutorial.NetworkRelatedClass;
+package ru.itforever.acca.NetworkRelatedClass;
 
 import androidx.annotation.NonNull;
 
 import com.google.gson.Gson;
-import com.hellohasan.android_file_upload_tutorial.ModelClass.EventModel;
-import com.hellohasan.android_file_upload_tutorial.ModelClass.ImageSenderInfo;
-import com.hellohasan.android_file_upload_tutorial.ModelClass.ResponseModel;
+import ru.itforever.acca.ModelClass.EventModel;
+import ru.itforever.acca.ModelClass.ImageSenderInfo;
+import ru.itforever.acca.ModelClass.ResponseModel;
 import com.orhanobut.logger.AndroidLogAdapter;
 import com.orhanobut.logger.Logger;
 

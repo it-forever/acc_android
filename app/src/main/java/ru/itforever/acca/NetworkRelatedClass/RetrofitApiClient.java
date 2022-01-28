@@ -1,4 +1,4 @@
-package com.hellohasan.android_file_upload_tutorial.NetworkRelatedClass;
+package ru.itforever.acca.NetworkRelatedClass;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

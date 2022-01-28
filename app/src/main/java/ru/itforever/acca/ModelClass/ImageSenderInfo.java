@@ -1,5 +1,4 @@
-
-package com.hellohasan.android_file_upload_tutorial.ModelClass;
+package ru.itforever.acca.ModelClass;
 
 import android.os.Parcel;
 import android.os.Parcelable;
@@ -24,7 +23,7 @@ public class ImageSenderInfo implements Parcelable {
     public final static Parcelable.Creator<ImageSenderInfo> CREATOR = new Creator<ImageSenderInfo>() {
 
         @SuppressWarnings({
-            "unchecked"
+                "unchecked"
         })
         public ImageSenderInfo createFromParcel(Parcel in) {
             ImageSenderInfo instance = new ImageSenderInfo();
@@ -50,3 +49,4 @@ public class ImageSenderInfo implements Parcelable {
     }
 
 }
+
