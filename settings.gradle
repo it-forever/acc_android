@@ -1,2 +1,3 @@
+include ':acca'
 include ':app'
 rootProject.name = "ACCA"
