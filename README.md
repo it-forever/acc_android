@@ -1,5 +1,6 @@
 # mobile client "acca_android" (audio conversation content analytics)
-android app for SIBSAU
+android app for SIBSAU.
+Текущий реппозиторий не поддерживается, проект переехал сюда https://github.com/it-forever/android-acca_v1
 
 Цель проекта - добавление аудиозаписей на удаленный сервер для анализа.
 
